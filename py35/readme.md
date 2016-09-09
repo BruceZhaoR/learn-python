@@ -37,3 +37,12 @@ clear-window=<Control-Key-l>
 
 最后安装  http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
 
+## 爬虫框架 pyspider
+
+scrapy python3.3 以上 windows 安装不了。主要原因是 Twiste
+
+pyspider http://docs.pyspider.org/en/latest/Quickstart/
+https://github.com/binux/pyspider
+
+爬虫工具介绍： http://www.wtoutiao.com/p/17508iO.html
+
