@@ -28,3 +28,12 @@ clear-window=<Control-Key-l>
 然后再把此文件夹下的 `ClearWindow.py` 放在`idlelib`文件夹里面就ok了~~
 
 打开python的idle，看看options是不是多了一个选项`clear shell window ctrl+L`
+
+## 安装 scipy scikit-learn
+
+首先安装这个 numpy + mkl :  http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+其次安装  http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+最后安装  http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
+
